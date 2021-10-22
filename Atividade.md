@@ -63,6 +63,7 @@ Um sistema gerenciador de banco de dados, como o nome sugere, é um programa que
 ## 13)Qual a diferença do banco de dados relacional para o banco de dados não relacional?
 
 Banco de dados relacional -> Representa e armazena dados em uma tabela ou fila. Ex: MySQL, PostgreSQL e SQLite3 
+
 Banco de dados não-relacional -> Representam os dados no formato de coleção de documentos JSON. Ex: MongoDB
 
 ## 14)O que é uma chave primária e qual a função dela?
