@@ -3,6 +3,7 @@
 # Atividade Introdução ao desenvolvimento web e Banco de dados part 2
 
 <br>
+
 ## 1) descreva o que seria a camada de front-end no desenvolvimento web.
 
 O front-end é o responsável por projetar as interfaces de um website. O front-end irá mostrar a “cara" do website ou webapp para o usuário, todas as interações do usuário com o site são feitas pelo front-end (podendo ter uma comunicação com o back-end).
